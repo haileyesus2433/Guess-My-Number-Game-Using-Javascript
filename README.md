@@ -1,1 +1,1 @@
-# Guess-My-Number-Game-Using-Javascript
+# Guess-My-Number
